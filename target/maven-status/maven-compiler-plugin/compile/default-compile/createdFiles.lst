@@ -1,0 +1,5 @@
+com\monkey\ultimatecrates\api\CratesData.class
+com\monkey\ultimatecrates\api\data\LeaderboardEntry.class
+com\monkey\ultimatecrates\api\UltimateCratesProvider.class
+com\monkey\ultimatecrates\api\MissingImplementationException.class
+com\monkey\ultimatecrates\api\UltimateCratesAPI.class
